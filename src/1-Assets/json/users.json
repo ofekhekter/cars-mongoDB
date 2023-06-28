@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "firstname": "Mosh",
+        "lastname": "Ben-Ari",
+        "username": "Rasta",
+        "password": "1234",
+        "role": "user"
+    },
+    {
+        "id": 2,
+        "firstname": "Omer",
+        "lastname": "Adam",
+        "username": "Dubai",
+        "password": "1-a",
+        "role": "user"
+    },
+    {
+        "id": 3,
+        "firstname": "Zohar",
+        "lastname": "Argov",
+        "username": "theKing",
+        "password": "theKing",
+        "role": "user"
+    },
+    {
+        "id": 4,
+        "firstname": "Ravid",
+        "lastname": "Plotnik",
+        "username": "nechiNech",
+        "password": "123123",
+        "role": "user"
+    },
+    {
+        "id": 5,
+        "firstname": "Ofra",
+        "lastname": "Haza",
+        "username": "Yochevet",
+        "password": "A123a!65",
+        "role": "admin"
+    },
+    {
+        "username": "eminem",
+        "firstname": "Marshall",
+        "lastname": "Mathers",
+        "password": "50cent",
+        "id": 6,
+        "role": "user"
+    }
+    
+]
