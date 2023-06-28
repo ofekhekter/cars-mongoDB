@@ -43,13 +43,5 @@
         "color": "green",
         "price": "999$",
         "year": 2010
-    },
-    {
-        "firstname": "Ofek",
-        "lastname": "Hekter",
-        "username": "Ofek123",
-        "password": "Ofek!@#123456",
-        "id": 6,
-        "role": "user"
     }
 ]

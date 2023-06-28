@@ -4,6 +4,7 @@ import { CarType } from '../4-models/Car-Model';
 import { deleteMessage } from '../3-middleware/delete-message';
 import { ObjectId } from 'mongodb';
 import { verifyLoggedIn } from '../3-middleware/verify-loggedin';
+import { verifyAdminMW } from '../3-middleware/verify-admin';
 
 const router = express.Router();
 
@@ -49,7 +50,7 @@ router.put('/cars/:id',verifyLoggedIn , async (req: Request, res: Response, next
     }
 });
 
-router.delete('/cars/:id',[deleteMessage, verifyLoggedIn] , async (req: Request, res: Response, next: NextFunction) => {
+router.delete('/cars/:id',[deleteMessage, verifyAdminMW] , async (req: Request, res: Response, next: NextFunction) => {
     try{
         const id = req?.params?.id;
         const query = { _id: new ObjectId(id) };
