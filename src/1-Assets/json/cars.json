@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "brand": "Mercedes-Benz",
+        "model": "Citan",
+        "car_body": "van",
+        "color": "red",
+        "price": "10000$",
+        "year": 2010
+    },
+    {
+        "id": 2,
+        "brand": "Lexus",
+        "model": "GX",
+        "car_body": "4WD",
+        "color": "black",
+        "price": "50000$",
+        "year": 2020
+    },
+    {
+        "id": 3,
+        "brand": "Toyota",
+        "model": "RAV4",
+        "car_body": "crossover",
+        "color": "gray",
+        "price": "15000$",
+        "year": 2015
+    },
+    {
+        "id": 4,
+        "brand": "Hyundai",
+        "model": "Grand i10 Nios",
+        "car_body": "hatchback",
+        "color": "yellow",
+        "price": "30000$",
+        "year": 2018
+    },
+    {
+        "id": 5,
+        "brand": "Bmw",
+        "model": "Citan",
+        "car_body": "coope",
+        "color": "green",
+        "price": "999$",
+        "year": 2010
+    },
+    {
+        "firstname": "Ofek",
+        "lastname": "Hekter",
+        "username": "Ofek123",
+        "password": "Ofek!@#123456",
+        "id": 6,
+        "role": "user"
+    }
+]

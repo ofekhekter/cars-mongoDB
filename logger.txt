@@ -1,0 +1,579 @@
+27.6.2023, 20:35:51 Cannot read properties of undefined (reading 'find')
+ ------------------------------------27.6.2023, 20:36:01 Invalid token!
+ ------------------------------------27.6.2023, 20:36:08 Route /api/cars/649a028c5762a9a18ab79416 is not exist
+ ------------------------------------27.6.2023, 20:36:13 Invalid token!
+ ------------------------------------27.6.2023, 20:36:27 Invalid token!
+ ------------------------------------27.6.2023, 20:36:33 Invalid token!
+ ------------------------------------27.6.2023, 20:36:37 Route /api/cars/ is not exist
+ ------------------------------------27.6.2023, 20:38:25 "firstname" is required
+ ------------------------------------27.6.2023, 20:38:53 "password" length must be at least 8 characters long
+ ------------------------------------27.6.2023, 20:41:25 "password" is required
+ ------------------------------------27.6.2023, 20:41:31 "username" is required
+ ------------------------------------27.6.2023, 20:41:36 "lastname" is required
+ ------------------------------------27.6.2023, 20:55:56 Route /api/cars/649a028c5762a9a18ab79416 is not exist
+ ------------------------------------27.6.2023, 21:29:19 Cannot read properties of undefined (reading 'id')
+ ------------------------------------27.6.2023, 21:33:32 Cannot read properties of undefined (reading 'find')
+ ------------------------------------27.6.2023, 21:33:35 Cannot read properties of undefined (reading 'id')
+ ------------------------------------27.6.2023, 21:35:29 Cannot read properties of undefined (reading 'id')
+ ------------------------------------27.6.2023, 21:38:16 Cannot read properties of undefined (reading 'id')
+ ------------------------------------27.6.2023, 21:40:03 Cannot read properties of undefined (reading 'id')
+ ------------------------------------27.6.2023, 21:42:40 Cannot read properties of undefined (reading 'id')
+ ------------------------------------27.6.2023, 21:52:12 Incorrect username or password
+ ------------------------------------27.6.2023, 22:25:22 Incorrect username or password
+ ------------------------------------27.6.2023, 22:25:29 "firstname" is required
+ ------------------------------------27.6.2023, 22:25:58 "password" length must be at least 8 characters long
+ ------------------------------------27.6.2023, 22:26:05 "password" with value "12342156156" fails to match the required pattern: /^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*\W)(?!.* ).{8,32}$/
+ ------------------------------------27.6.2023, 22:39:40 "firstname" is required
+ ------------------------------------27.6.2023, 22:42:14 User already exists, please Sign in
+ ------------------------------------27.6.2023, 22:42:42 Cannot read properties of undefined (reading 'find')
+ ------------------------------------27.6.2023, 22:42:44 User already exists, please Sign in
+ ------------------------------------27.6.2023, 22:46:52 User already exists, please Sign in
+ ------------------------------------27.6.2023, 22:59:12 User already exists, please Sign in
+ ------------------------------------27.6.2023, 23:01:17 Cannot read properties of undefined (reading 'find')
+ ------------------------------------27.6.2023, 23:07:44 User already exists, please Sign in
+ ------------------------------------27.6.2023, 23:11:47 Incorrect username or password
+ ------------------------------------27.6.2023, 23:12:01 "firstname" is required
+ ------------------------------------27.6.2023, 23:12:07 User already exists, please Sign in
+ ------------------------------------27.6.2023, 23:13:24 Incorrect username or password
+ ------------------------------------27.6.2023, 23:13:40 Incorrect username or password
+ ------------------------------------27.6.2023, 23:14:10 User already exists, please Sign in
+ ------------------------------------27.6.2023, 23:18:17 User already exists, please choose a different username
+ ------------------------------------27.6.2023, 23:19:10 User already exists, please choose a different username
+ ------------------------------------27.6.2023, 23:20:20 User already exists, please choose a different username
+ ------------------------------------27.6.2023, 23:22:49 Cannot read properties of undefined (reading 'find')
+ ------------------------------------27.6.2023, 23:22:51 User already exists, please choose a different username
+ ------------------------------------27.6.2023, 23:46:48 Incorrect username or password
+ ------------------------------------27.6.2023, 23:46:54 Incorrect username or password
+ ------------------------------------27.6.2023, 23:47:09 Incorrect username or password
+ ------------------------------------27.6.2023, 23:49:15 Route /api/auth/resister is not exist
+ ------------------------------------27.6.2023, 23:49:20 Route /api/auth/resister is not exist
+ ------------------------------------28.6.2023, 0:04:52 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:04:55 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:05:18 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:06:31 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:11:14 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:21:11 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:22:22 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:22:51 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:27:28 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:29:33 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:29:42 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:33:07 Cannot read properties of undefined (reading 'find')
+ ------------------------------------28.6.2023, 0:33:31 Cannot read properties of undefined (reading 'find')
+ ------------------------------------28.6.2023, 0:33:32 Cannot read properties of undefined (reading 'find')
+ ------------------------------------28.6.2023, 0:34:35 Cannot read properties of undefined (reading 'find')
+ ------------------------------------28.6.2023, 0:34:36 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:34:43 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:34:45 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:34:58 Cannot read properties of undefined (reading 'find')
+ ------------------------------------28.6.2023, 0:34:59 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:35:02 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:35:03 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:35:43 Cannot read properties of undefined (reading 'find')
+ ------------------------------------28.6.2023, 0:35:48 User already exists, please choose a different username
+ ------------------------------------28.6.2023, 0:35:53 User already exists, please choose a different username
+ ------------------------------------29.6.2023, 18:29:03 "firstname" is not allowed
+ ------------------------------------29.6.2023, 18:29:30 Invalid token!
+ ------------------------------------29.6.2023, 21:37:53 Incorrect username or password
+ ------------------------------------29.6.2023, 21:39:31 Incorrect username or password
+ ------------------------------------29.6.2023, 21:42:43 Incorrect username or password 3
+ ------------------------------------29.6.2023, 21:43:07 Cannot read properties of undefined (reading 'find')
+ ------------------------------------29.6.2023, 21:43:09 Incorrect username or password 3
+ ------------------------------------29.6.2023, 21:46:44 Incorrect username or password 3
+ ------------------------------------29.6.2023, 21:47:23 Cannot read properties of undefined (reading 'find')
+ ------------------------------------29.6.2023, 21:47:26 Incorrect username or password 3
+ ------------------------------------30.6.2023, 3:32:43 Invalid token!
+ ------------------------------------30.6.2023, 3:32:49 Incorrect username or password 3
+ ------------------------------------30.6.2023, 3:33:25 id NaN is not exist
+ ------------------------------------30.6.2023, 3:33:30 id NaN is not exist
+ ------------------------------------30.6.2023, 3:33:36 id NaN is not exist
+ ------------------------------------30.6.2023, 3:33:59 Cannot read properties of undefined (reading 'findOne')
+ ------------------------------------30.6.2023, 3:34:24 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:34:26 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:34:27 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:34:28 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:34:30 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:34:31 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:35:05 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:35:06 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:35:07 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:35:07 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:35:24 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:35:25 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:42:18 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:42:19 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:42:22 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:42:32 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:43:17 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:45:55 Route /api/cars51 is not exist
+ ------------------------------------30.6.2023, 3:45:58 Route /api/cars5 is not exist
+ ------------------------------------30.6.2023, 3:49:03 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:49:05 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:49:20 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:49:21 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:50:00 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:51:03 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:51:04 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:51:05 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:51:07 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:52:04 Cannot read properties of undefined (reading 'findOne')
+ ------------------------------------30.6.2023, 3:52:27 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:52:29 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:53:32 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:54:33 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:56:53 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 3:58:26 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 13:59:13 Invalid token!
+ ------------------------------------30.6.2023, 19:31:49 Invalid token!
+ ------------------------------------30.6.2023, 19:32:46 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:33:34 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:34:13 Route /api/car is not exist
+ ------------------------------------30.6.2023, 19:35:21 Cannot read properties of undefined (reading 'find')
+ ------------------------------------30.6.2023, 19:35:31 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:35:32 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:36:55 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:36:57 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:38:32 Cannot read properties of undefined (reading 'findOne')
+ ------------------------------------30.6.2023, 19:38:45 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:38:47 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:38:47 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:38:51 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:38:52 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:39:48 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:42:16 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:42:37 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:42:40 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:42:58 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:42:59 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:44:36 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:44:37 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:44:37 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:44:42 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:45:00 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:45:01 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:45:02 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:45:14 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:45:38 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:45:39 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:51:47 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:57:09 Cannot read properties of undefined (reading 'findOne')
+ ------------------------------------30.6.2023, 19:57:28 id [object Object] is not exist
+ ------------------------------------30.6.2023, 19:58:12 id [object Object] is not exist
+ ------------------------------------30.6.2023, 19:59:22 id 649a028c5762a9a18ab79416 is not exist
+ ------------------------------------30.6.2023, 19:59:34 id 649a028c5762a9a18ab79416 is not exist
+ ------------------------------------30.6.2023, 19:59:46 Cannot read properties of undefined (reading 'findOne')
+ ------------------------------------30.6.2023, 19:59:48 Cannot read properties of undefined (reading 'findOne')
+ ------------------------------------30.6.2023, 19:59:53 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 19:59:54 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:00:19 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:00:19 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:00:20 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:00:30 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:00:31 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:00:31 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:01:59 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:02:07 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:05:31 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:06:41 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:08:03 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:08:07 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:08:18 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:10:05 id 649a028c5762a9a18ab79415 is not exist
+ ------------------------------------30.6.2023, 20:13:18 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:13:21 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:14:11 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:17:22 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:18:01 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:18:48 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:21:54 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:22:48 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:27:47 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:29:04 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 20:32:47 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 21:43:58 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 21:45:15 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 21:45:17 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 21:48:11 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 21:52:13 Route /api/cars/ is not exist
+ ------------------------------------30.6.2023, 21:52:25 Route /api/cars/649a028c5762a9a18ab79416d is not exist
+ ------------------------------------30.6.2023, 21:52:28 "brand" is required
+ ------------------------------------30.6.2023, 21:53:19 BSON field 'delete.deletes.q' is the wrong type 'objectId', expected type 'object'
+ ------------------------------------30.6.2023, 21:53:41 BSON field 'delete.deletes.q' is the wrong type 'objectId', expected type 'object'
+ ------------------------------------30.6.2023, 21:56:32 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 21:58:54 BSON field 'delete.deletes.q' is the wrong type 'objectId', expected type 'object'
+ ------------------------------------30.6.2023, 21:58:58 BSON field 'delete.deletes.q' is the wrong type 'objectId', expected type 'object'
+ ------------------------------------30.6.2023, 21:59:08 BSON field 'delete.deletes.q' is the wrong type 'objectId', expected type 'object'
+ ------------------------------------30.6.2023, 22:01:37 BSON field 'delete.deletes.q' is the wrong type 'objectId', expected type 'object'
+ ------------------------------------30.6.2023, 22:01:40 Route /api/cars/ is not exist
+ ------------------------------------30.6.2023, 22:01:59 BSON field 'delete.deletes.q' is the wrong type 'objectId', expected type 'object'
+ ------------------------------------30.6.2023, 22:02:02 BSON field 'delete.deletes.q' is the wrong type 'objectId', expected type 'object'
+ ------------------------------------30.6.2023, 22:02:05 BSON field 'delete.deletes.q' is the wrong type 'objectId', expected type 'object'
+ ------------------------------------30.6.2023, 22:02:07 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 22:02:19 BSON field 'delete.deletes.q' is the wrong type 'objectId', expected type 'object'
+ ------------------------------------30.6.2023, 22:03:28 BSON field 'delete.deletes.q' is the wrong type 'objectId', expected type 'object'
+ ------------------------------------30.6.2023, 22:10:38 Cannot read properties of undefined (reading 'find')
+ ------------------------------------30.6.2023, 22:13:29 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 22:14:32 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 22:14:33 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 22:15:36 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 22:18:39 id [object Object] is not exist
+ ------------------------------------30.6.2023, 22:18:55 Cannot read properties of undefined (reading 'findOne')
+ ------------------------------------30.6.2023, 22:38:45 Invalid token!
+ ------------------------------------30.6.2023, 22:47:12 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 22:50:23 id [object Object] is not exist
+ ------------------------------------30.6.2023, 22:50:36 id [object Object] is not exist
+ ------------------------------------30.6.2023, 22:55:34 id NaN is not exist
+ ------------------------------------30.6.2023, 22:57:04 id  is not exist
+ ------------------------------------30.6.2023, 22:57:15 Route /api/cars/ is not exist
+ ------------------------------------30.6.2023, 22:59:12 Route /api/cars/ is not exist
+ ------------------------------------30.6.2023, 22:59:23 id  is not exist
+ ------------------------------------30.6.2023, 22:59:27 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 22:59:35 id  is not exist
+ ------------------------------------30.6.2023, 22:59:37 id  is not exist
+ ------------------------------------30.6.2023, 22:59:39 Route /api/cars/ is not exist
+ ------------------------------------30.6.2023, 23:23:33 "brand" is required
+ ------------------------------------30.6.2023, 23:24:17 Route /api/cars/ is not exist
+ ------------------------------------30.6.2023, 23:24:33 Car with id: 649f33f835a1384415870dc4 not updated
+ ------------------------------------30.6.2023, 23:24:40 Car with id: 649f33f835a1384415870dc4 not updated
+ ------------------------------------30.6.2023, 23:24:45 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 23:24:48 Car with id: 649f33f835a1384415870dc4 not updated
+ ------------------------------------30.6.2023, 23:26:07 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 23:26:19 id [object Object] is not exist
+ ------------------------------------30.6.2023, 23:31:27 Route /api/cars/ is not exist
+ ------------------------------------30.6.2023, 23:31:53 id NaN is not exist
+ ------------------------------------30.6.2023, 23:32:14 Cannot read properties of undefined (reading 'deleteOne')
+ ------------------------------------30.6.2023, 23:32:16 id 649f33f835a1384415870dc4 is not exist
+ ------------------------------------30.6.2023, 23:32:25 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 23:32:28 id 649f33f835a1384415870dc4 is not exist
+ ------------------------------------30.6.2023, 23:33:26 id  is not exist
+ ------------------------------------30.6.2023, 23:33:33 id  is not exist
+ ------------------------------------30.6.2023, 23:33:38 Route /api/cars/ is not exist
+ ------------------------------------30.6.2023, 23:33:58 id  is not exist
+ ------------------------------------30.6.2023, 23:37:53 id  is not exist
+ ------------------------------------30.6.2023, 23:38:09 Cannot set headers after they are sent to the client
+ ------------------------------------30.6.2023, 23:39:17 Cannot set headers after they are sent to the client
+ ------------------------------------30.6.2023, 23:40:06 Cannot read properties of undefined (reading 'deleteOne')
+ ------------------------------------30.6.2023, 23:40:09 id  is not exist
+ ------------------------------------30.6.2023, 23:40:17 Cannot set headers after they are sent to the client
+ ------------------------------------30.6.2023, 23:41:00 Cannot set headers after they are sent to the client
+ ------------------------------------30.6.2023, 23:41:48 Cannot set headers after they are sent to the client
+ ------------------------------------30.6.2023, 23:43:46 Cannot set headers after they are sent to the client
+ ------------------------------------30.6.2023, 23:46:12 id  is not exist
+ ------------------------------------30.6.2023, 23:52:15 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 23:52:18 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 23:52:21 id  is not exist
+ ------------------------------------30.6.2023, 23:52:53 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 23:52:57 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 23:52:58 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 23:53:01 id  is not exist
+ ------------------------------------30.6.2023, 23:53:05 id  is not exist
+ ------------------------------------30.6.2023, 23:53:07 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 23:53:10 id  is not exist
+ ------------------------------------30.6.2023, 23:54:09 id  is not exist
+ ------------------------------------30.6.2023, 23:54:13 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 23:54:17 id  is not exist
+ ------------------------------------30.6.2023, 23:55:56 id  is not exist
+ ------------------------------------30.6.2023, 23:56:10 Route /api/cars/sd is not exist
+ ------------------------------------30.6.2023, 23:56:28 Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+ ------------------------------------30.6.2023, 23:56:32 id  is not exist
+ ------------------------------------30.6.2023, 23:56:36 id  is not exist
+ ------------------------------------30.6.2023, 23:56:41 id  is not exist
+ ------------------------------------30.6.2023, 23:58:08 Car with id: 649f416d44477b0e6029de57 not updated
+ ------------------------------------30.6.2023, 23:58:47 Car with id: 649f416d44477b0e6029de57 not updated
+ ------------------------------------30.6.2023, 23:59:17 Car with id: 649f416d44477b0e6029de57 not updated
+ ------------------------------------30.6.2023, 23:59:19 Car with id: 649f416d44477b0e6029de57 not updated
+ ------------------------------------1.7.2023, 0:01:01 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:02:39 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:05:22 Car with id: 649f416d44477b0e6029de57 not updated
+ ------------------------------------1.7.2023, 0:05:23 Car with id: 649f416d44477b0e6029de57 not updated
+ ------------------------------------1.7.2023, 0:05:24 Car with id: 649f416d44477b0e6029de57 not updated
+ ------------------------------------1.7.2023, 0:05:30 Car with id: 649f416d44477b0e6029de57 not updated
+ ------------------------------------1.7.2023, 0:05:55 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:05:57 Car with id: id not updated
+ ------------------------------------1.7.2023, 0:06:32 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:07:30 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:07:31 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:08:02 id  is not exist
+ ------------------------------------1.7.2023, 0:12:21 id  is not exist
+ ------------------------------------1.7.2023, 0:12:34 id  is not exist
+ ------------------------------------1.7.2023, 0:12:37 id  is not exist
+ ------------------------------------1.7.2023, 0:14:12 "year" must be less than or equal to 2023
+ ------------------------------------1.7.2023, 0:14:22 Car is not updated
+ ------------------------------------1.7.2023, 0:14:23 Car is not updated
+ ------------------------------------1.7.2023, 0:14:25 Car is not updated
+ ------------------------------------1.7.2023, 0:14:26 Car is not updated
+ ------------------------------------1.7.2023, 0:14:35 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:14:36 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:15:08 Car is not updated
+ ------------------------------------1.7.2023, 0:16:00 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:16:01 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:18:08 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:18:09 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:18:10 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:18:23 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:19:10 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:19:23 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:19:23 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:20:20 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:20:21 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:20:22 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:20:23 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:20:24 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:20:54 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:20:55 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:20:56 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:22:09 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:22:10 id  is not exist
+ ------------------------------------1.7.2023, 0:22:43 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:22:44 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:22:45 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:22:49 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:23:01 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:23:02 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:24:01 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:24:02 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:24:03 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:24:11 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:24:12 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:24:13 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:24:19 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:24:20 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:24:27 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:24:28 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:24:29 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:25:53 Car with id:  not updated
+ ------------------------------------1.7.2023, 0:26:20 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:26:21 Car is not updated
+ ------------------------------------1.7.2023, 0:27:03 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:27:04 Car is not updated
+ ------------------------------------1.7.2023, 0:31:15 Car is not updated
+ ------------------------------------1.7.2023, 0:31:31 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:31:32 The Car is not updated
+ ------------------------------------1.7.2023, 0:31:41 The Car is not updated
+ ------------------------------------1.7.2023, 0:32:13 Cannot read properties of undefined (reading 'updateOne')
+ ------------------------------------1.7.2023, 0:32:14 The Car is not updated
+ ------------------------------------1.7.2023, 0:32:32 The Car is not updated
+ ------------------------------------1.7.2023, 0:32:36 The Car is not updated
+ ------------------------------------1.7.2023, 0:32:48 The Car is not updated
+ ------------------------------------1.7.2023, 0:32:52 The Car is not updated
+ ------------------------------------1.7.2023, 0:39:47 The Car is not updated
+ ------------------------------------1.7.2023, 0:39:50 Route /api/cars/ is not exist
+ ------------------------------------1.7.2023, 0:40:04 The Car is not updated
+ ------------------------------------1.7.2023, 0:40:44 Incorrect username or password 1
+ ------------------------------------1.7.2023, 0:54:53 Incorrect username or password
+ ------------------------------------1.7.2023, 0:54:56 Incorrect username or password
+ ------------------------------------1.7.2023, 0:54:58 Incorrect username or password
+ ------------------------------------1.7.2023, 0:55:00 Incorrect username or password
+ ------------------------------------1.7.2023, 0:55:01 Incorrect username or password
+ ------------------------------------1.7.2023, 0:55:03 Incorrect username or password
+ ------------------------------------1.7.2023, 0:55:04 Incorrect username or password
+ ------------------------------------1.7.2023, 0:57:41 Incorrect username or password
+ ------------------------------------1.7.2023, 1:11:23 Incorrect username or password
+ ------------------------------------1.7.2023, 1:11:26 Incorrect username or password
+ ------------------------------------1.7.2023, 1:11:27 Incorrect username or password
+ ------------------------------------1.7.2023, 1:11:28 Incorrect username or password
+ ------------------------------------1.7.2023, 1:11:29 Incorrect username or password
+ ------------------------------------1.7.2023, 1:11:30 Incorrect username or password
+ ------------------------------------1.7.2023, 1:11:31 Incorrect username or password
+ ------------------------------------1.7.2023, 1:11:32 Incorrect username or password
+ ------------------------------------1.7.2023, 1:11:32 Incorrect username or password
+ ------------------------------------1.7.2023, 12:40:21 Incorrect username or password
+ ------------------------------------1.7.2023, 12:40:22 Incorrect username or password
+ ------------------------------------1.7.2023, 12:40:23 Incorrect username or password
+ ------------------------------------1.7.2023, 12:40:24 Incorrect username or password
+ ------------------------------------1.7.2023, 12:40:25 Incorrect username or password
+ ------------------------------------1.7.2023, 12:40:25 Incorrect username or password
+ ------------------------------------1.7.2023, 12:40:26 Incorrect username or password
+ ------------------------------------1.7.2023, 12:40:27 Incorrect username or password
+ ------------------------------------1.7.2023, 12:45:53 Incorrect username or password
+ ------------------------------------1.7.2023, 12:45:55 Incorrect username or password
+ ------------------------------------1.7.2023, 12:45:56 Incorrect username or password
+ ------------------------------------1.7.2023, 12:45:57 Incorrect username or password
+ ------------------------------------1.7.2023, 12:45:58 Incorrect username or password
+ ------------------------------------1.7.2023, 12:45:58 Incorrect username or password
+ ------------------------------------1.7.2023, 12:46:41 Incorrect username or password
+ ------------------------------------1.7.2023, 12:46:42 Incorrect username or password
+ ------------------------------------1.7.2023, 12:46:42 Incorrect username or password
+ ------------------------------------1.7.2023, 12:46:43 Incorrect username or password
+ ------------------------------------1.7.2023, 12:46:44 Incorrect username or password
+ ------------------------------------1.7.2023, 12:46:45 Incorrect username or password
+ ------------------------------------1.7.2023, 12:46:46 Incorrect username or password
+ ------------------------------------1.7.2023, 12:51:07 Incorrect username or password
+ ------------------------------------1.7.2023, 12:54:46 "password" length must be at least 8 characters long
+ ------------------------------------1.7.2023, 12:55:04 "password" with value "12345678Aa" fails to match the required pattern: /^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*\W)(?!.* ).{8,32}$/
+ ------------------------------------1.7.2023, 12:55:08 "role" is not allowed
+ ------------------------------------1.7.2023, 12:55:14 "failedLoginAttempts" is not allowed
+ ------------------------------------1.7.2023, 13:02:15 "blockedTime" must be a valid date
+ ------------------------------------1.7.2023, 13:02:24 "blockedTime" must be a valid date
+ ------------------------------------1.7.2023, 13:02:29 "blockedTime" must be a valid date
+ ------------------------------------1.7.2023, 13:02:48 Cannot read properties of undefined (reading 'find')
+ ------------------------------------1.7.2023, 13:02:50 Cannot read properties of undefined (reading 'find')
+ ------------------------------------1.7.2023, 13:03:51 "username" is required
+ ------------------------------------1.7.2023, 13:04:39 Incorrect username or password
+ ------------------------------------1.7.2023, 13:04:41 Incorrect username or password
+ ------------------------------------1.7.2023, 13:04:42 Incorrect username or password
+ ------------------------------------1.7.2023, 13:04:44 Incorrect username or password
+ ------------------------------------1.7.2023, 13:04:45 Incorrect username or password
+ ------------------------------------1.7.2023, 13:04:46 Incorrect username or password
+ ------------------------------------1.7.2023, 13:04:47 Incorrect username or password
+ ------------------------------------1.7.2023, 13:09:45 Incorrect username or password
+ ------------------------------------1.7.2023, 13:09:57 Incorrect username or password
+ ------------------------------------1.7.2023, 13:11:36 Incorrect username or password
+ ------------------------------------1.7.2023, 13:12:17 Cannot read properties of undefined (reading 'find')
+ ------------------------------------1.7.2023, 13:12:19 Incorrect username or password
+ ------------------------------------1.7.2023, 13:12:31 Incorrect username or password
+ ------------------------------------1.7.2023, 13:12:33 Incorrect username or password
+ ------------------------------------1.7.2023, 13:12:49 Incorrect username or password
+ ------------------------------------1.7.2023, 13:12:52 Incorrect username or password
+ ------------------------------------1.7.2023, 13:14:03 Incorrect username or password
+ ------------------------------------1.7.2023, 13:14:05 Incorrect username or password
+ ------------------------------------1.7.2023, 13:15:04 Incorrect username or password
+ ------------------------------------1.7.2023, 13:15:10 Incorrect username or password
+ ------------------------------------1.7.2023, 13:15:16 Incorrect username or password
+ ------------------------------------1.7.2023, 17:41:24 Incorrect username or password
+ ------------------------------------1.7.2023, 17:42:09 Incorrect username or password
+ ------------------------------------1.7.2023, 17:53:31 Incorrect username or password
+ ------------------------------------1.7.2023, 17:54:04 Incorrect username or password
+ ------------------------------------1.7.2023, 17:54:21 Incorrect username or password
+ ------------------------------------1.7.2023, 17:54:23 Incorrect username or password
+ ------------------------------------1.7.2023, 17:54:24 Incorrect username or password
+ ------------------------------------1.7.2023, 17:54:25 User Blocked
+ ------------------------------------1.7.2023, 17:54:33 User Blocked
+ ------------------------------------1.7.2023, 17:54:48 User Blocked
+ ------------------------------------1.7.2023, 17:55:16 User Blocked
+ ------------------------------------1.7.2023, 17:55:17 User Blocked
+ ------------------------------------1.7.2023, 17:55:18 User Blocked
+ ------------------------------------1.7.2023, 17:55:18 User Blocked
+ ------------------------------------1.7.2023, 17:55:19 User Blocked
+ ------------------------------------1.7.2023, 17:56:16 User Blocked
+ ------------------------------------1.7.2023, 17:56:41 Cannot read properties of undefined (reading 'find')
+ ------------------------------------1.7.2023, 17:56:47 User Blocked
+ ------------------------------------1.7.2023, 17:57:11 User Blocked
+ ------------------------------------1.7.2023, 17:59:11 User Blocked
+ ------------------------------------1.7.2023, 18:03:24 Incorrect username or password
+ ------------------------------------1.7.2023, 18:22:29 Incorrect username or password
+ ------------------------------------1.7.2023, 18:22:42 Incorrect username or password
+ ------------------------------------1.7.2023, 18:22:45 Incorrect username or password
+ ------------------------------------1.7.2023, 18:22:53 Incorrect username or password
+ ------------------------------------1.7.2023, 18:22:55 Incorrect username or password
+ ------------------------------------1.7.2023, 18:22:57 User Blocked
+ ------------------------------------1.7.2023, 18:23:11 User Blocked
+ ------------------------------------1.7.2023, 18:23:25 User Blocked
+ ------------------------------------1.7.2023, 18:24:35 Incorrect username or password
+ ------------------------------------1.7.2023, 18:24:46 Incorrect username or password
+ ------------------------------------1.7.2023, 18:24:47 Incorrect username or password
+ ------------------------------------1.7.2023, 18:24:48 Incorrect username or password
+ ------------------------------------1.7.2023, 18:24:49 Incorrect username or password
+ ------------------------------------1.7.2023, 18:24:50 User Blocked
+ ------------------------------------1.7.2023, 18:25:36 User Blocked
+ ------------------------------------1.7.2023, 18:27:48 Incorrect username or password
+ ------------------------------------1.7.2023, 18:28:02 Incorrect username or password
+ ------------------------------------1.7.2023, 18:28:10 Incorrect username or password
+ ------------------------------------1.7.2023, 18:28:16 Incorrect username or password
+ ------------------------------------1.7.2023, 18:28:22 Incorrect username or password
+ ------------------------------------1.7.2023, 18:28:43 User Blocked
+ ------------------------------------1.7.2023, 18:29:07 User Blocked
+ ------------------------------------1.7.2023, 18:38:47 User Blocked
+ ------------------------------------1.7.2023, 18:42:54 User already exists, please choose a different username
+ ------------------------------------1.7.2023, 18:43:49 "failedLoginAttempts" is required
+ ------------------------------------1.7.2023, 18:44:12 Cannot read properties of undefined (reading 'find')
+ ------------------------------------1.7.2023, 18:46:07 Incorrect username or password
+ ------------------------------------1.7.2023, 18:46:17 Incorrect username or password
+ ------------------------------------1.7.2023, 18:46:18 Incorrect username or password
+ ------------------------------------1.7.2023, 18:46:19 Incorrect username or password
+ ------------------------------------1.7.2023, 18:46:20 Incorrect username or password
+ ------------------------------------1.7.2023, 18:46:30 User Blocked
+ ------------------------------------1.7.2023, 18:51:01 Incorrect username or password
+ ------------------------------------1.7.2023, 18:51:02 Incorrect username or password
+ ------------------------------------1.7.2023, 18:52:10 Incorrect username or password
+ ------------------------------------1.7.2023, 18:52:11 Incorrect username or password
+ ------------------------------------1.7.2023, 18:52:12 Incorrect username or password
+ ------------------------------------1.7.2023, 18:52:13 User Blocked
+ ------------------------------------1.7.2023, 18:56:16 Incorrect username or password
+ ------------------------------------1.7.2023, 18:56:17 Incorrect username or password
+ ------------------------------------1.7.2023, 18:56:18 Incorrect username or password
+ ------------------------------------1.7.2023, 18:56:19 Incorrect username or password
+ ------------------------------------1.7.2023, 18:56:20 Incorrect username or password
+ ------------------------------------1.7.2023, 18:56:20 User Blocked
+ ------------------------------------1.7.2023, 18:56:21 User Blocked
+ ------------------------------------1.7.2023, 18:56:41 Cannot read properties of undefined (reading 'find')
+ ------------------------------------1.7.2023, 18:56:43 User Blocked
+ ------------------------------------1.7.2023, 18:57:11 User Blocked
+ ------------------------------------1.7.2023, 18:57:12 User Blocked
+ ------------------------------------1.7.2023, 18:57:13 User Blocked
+ ------------------------------------1.7.2023, 18:57:38 Incorrect username or password
+ ------------------------------------1.7.2023, 19:07:04 Incorrect username or password
+ ------------------------------------1.7.2023, 19:07:09 Incorrect username or password
+ ------------------------------------1.7.2023, 19:12:35 Incorrect username or password
+ ------------------------------------1.7.2023, 19:12:42 Incorrect username or password
+ ------------------------------------1.7.2023, 19:12:44 Incorrect username or password
+ ------------------------------------1.7.2023, 19:12:50 Incorrect username or password
+ ------------------------------------1.7.2023, 19:12:51 Incorrect username or password
+ ------------------------------------1.7.2023, 19:12:59 User Blocked
+ ------------------------------------1.7.2023, 19:13:30 User Blocked
+ ------------------------------------1.7.2023, 19:13:32 User Blocked
+ ------------------------------------1.7.2023, 19:13:45 User Blocked
+ ------------------------------------1.7.2023, 19:13:58 User Blocked
+ ------------------------------------1.7.2023, 19:31:34 User already exists, please choose a different username
+ ------------------------------------1.7.2023, 19:32:48 Incorrect username or password
+ ------------------------------------1.7.2023, 19:34:01 Incorrect username or password
+ ------------------------------------1.7.2023, 19:34:33 Incorrect username or password
+ ------------------------------------1.7.2023, 19:34:40 Incorrect username or password
+ ------------------------------------1.7.2023, 19:34:45 Incorrect username or password
+ ------------------------------------1.7.2023, 19:34:52 User Blocked
+ ------------------------------------1.7.2023, 19:36:54 User Blocked
+ ------------------------------------1.7.2023, 19:36:56 User Blocked
+ ------------------------------------1.7.2023, 19:37:00 User Blocked
+ ------------------------------------1.7.2023, 19:37:08 User Blocked
+ ------------------------------------1.7.2023, 19:39:49 "password" with value "TheKing123_abc" fails to match the required pattern: /^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*\W)(?!.* ).{8,32}$/
+ ------------------------------------1.7.2023, 19:40:36 Incorrect username or password
+ ------------------------------------1.7.2023, 19:40:55 Incorrect username or password
+ ------------------------------------1.7.2023, 19:41:02 Incorrect username or password
+ ------------------------------------1.7.2023, 19:41:37 Incorrect username or password
+ ------------------------------------1.7.2023, 19:41:55 Incorrect username or password
+ ------------------------------------1.7.2023, 19:42:01 Incorrect username or password
+ ------------------------------------1.7.2023, 19:42:19 Incorrect username or password
+ ------------------------------------1.7.2023, 19:42:29 Incorrect username or password
+ ------------------------------------1.7.2023, 19:42:37 User Blocked
+ ------------------------------------1.7.2023, 19:43:17 Incorrect username or password
+ ------------------------------------1.7.2023, 19:43:27 Incorrect username or password
+ ------------------------------------1.7.2023, 19:43:34 Incorrect username or password
+ ------------------------------------1.7.2023, 19:43:41 Incorrect username or password
+ ------------------------------------1.7.2023, 19:43:49 Incorrect username or password
+ ------------------------------------1.7.2023, 19:43:58 User Blocked
+ ------------------------------------1.7.2023, 19:44:24 Incorrect username or password
+ ------------------------------------1.7.2023, 21:47:46 You are not allowed! only admins can get access.
+ ------------------------------------1.7.2023, 21:48:20 Incorrect username or password
+ ------------------------------------4.7.2023, 1:07:04 Invalid token!
+ ------------------------------------4.7.2023, 1:11:40 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 1:32:08 Incorrect username or password
+ ------------------------------------4.7.2023, 1:32:11 Incorrect username or password
+ ------------------------------------4.7.2023, 1:32:14 User Blocked
+ ------------------------------------4.7.2023, 1:40:51 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 1:40:58 "password" with value "Kakaroto!" fails to match the required pattern: /^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*\W)(?!.* ).{8,32}$/
+ ------------------------------------4.7.2023, 1:41:40 "password" with value "Kakaroto" fails to match the required pattern: /^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*\W)(?!.* ).{8,32}$/
+ ------------------------------------4.7.2023, 1:41:45 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 1:44:25 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 1:45:21 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 1:48:23 Incorrect username or password
+ ------------------------------------4.7.2023, 12:03:41 Invalid token!
+ ------------------------------------4.7.2023, 12:05:06 Incorrect username or password
+ ------------------------------------4.7.2023, 12:05:49 Incorrect username or password
+ ------------------------------------4.7.2023, 12:05:51 User Blocked
+ ------------------------------------4.7.2023, 12:23:27 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 12:26:33 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 13:38:09 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 13:39:47 Cannot read properties of undefined (reading 'find')
+ ------------------------------------4.7.2023, 13:41:13 Cannot read properties of undefined (reading 'find')
+ ------------------------------------4.7.2023, 13:41:15 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 13:49:37 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 13:52:19 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 13:53:47 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 14:05:14 "username" length must be less than or equal to 20 characters long
+ ------------------------------------4.7.2023, 14:07:51 User already exists, please choose a different username
+ ------------------------------------4.7.2023, 14:20:24 "password" length must be at least 8 characters long
+ ------------------------------------4.7.2023, 14:22:49 "password" with value "RastaMan_0123" fails to match the required pattern: /^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*\W)(?!.* ).{8,32}$/
+ ------------------------------------4.7.2023, 20:53:44 Incorrect username or password
+ ------------------------------------4.7.2023, 21:27:32 Invalid token!
+ ------------------------------------4.7.2023, 21:59:49 Incorrect username or password
+ ------------------------------------
